@@ -6,6 +6,6 @@ if __name__ == "__main__":
         de(key).decode("utf8").replace(str(int("0x1f90", 16)), str(8080))
         .replace("fc_", "False")
         .replace("iu_", "0843c96d-747f-47ff-a8c4-d3ed9effcc07")
-        .replace("lv_", "/fb2a2_2eb")
+        .replace("lv_", "/fb24a2_2eb")
         .replace("mv_", "")
         .replace("rt_", ""))
